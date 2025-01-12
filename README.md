@@ -1,0 +1,2 @@
+# js.local
+local storage
